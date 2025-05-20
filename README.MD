@@ -12,7 +12,7 @@ This project is an AI model that uses a Convolutional Neural Network (CNN) to cl
 
 ### How to Run:
 1. Open Jupyter Notebook
-2. Run all the cells in `Fruit_Classifier.ipynb`
+2. Run all the cells in `Fruit_Image_Classifier.ipynb`
 
 
 ### Libraries Used:
